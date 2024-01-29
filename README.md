@@ -4,11 +4,12 @@ I am a software engineer and team leader working in the drone industry. I design
 
 ### Current Projects
 
-[Cloud Ground Control](https://www.cloudgroundcontrol.com/)
+- [Sommsense](https://app.sommsense.com/)
 
 ### Past Projects
 
-[DroneShield Sentry C2](https://www.droneshield.com/sentry-c2)
+- [Cloud Ground Control](https://www.cloudgroundcontrol.com/)
+- [DroneShield Sentry C2](https://www.droneshield.com/sentry-c2)
 
 <!--
 **geopan/geopan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
