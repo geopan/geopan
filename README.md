@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a software engineer and team leader working in the drone industry. I design and develop software for unmaned vehicles to perform coordinated tasks.
+I am a software engineer and team leader working in the drone industry. I design and develop software for unmanned vehicles to perform coordinated tasks.
 
 ### Current Projects
 
@@ -8,8 +8,8 @@ I am a software engineer and team leader working in the drone industry. I design
 
 ### Past Projects
 
-- [Cloud Ground Control](https://www.cloudgroundcontrol.com/)
-- [DroneShield Sentry C2](https://www.droneshield.com/sentry-c2)
+- 2020-2023 [Cloud Ground Control](https://www.cloudgroundcontrol.com/)
+- 2018-2020 [DroneShield Sentry C2](https://www.droneshield.com/sentry-c2)
 
 <!--
 **geopan/geopan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
